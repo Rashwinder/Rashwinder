@@ -65,4 +65,4 @@ Diatastic - Master of Data Science Capstone Unit.
  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashwinder&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashwinder&show_icons=true&theme=radical)](https://github.com/rashwinder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashwinder&show_icons=true&theme=radical&layout=compact)](https://github.com/rashwinder/github-readme-stats)
