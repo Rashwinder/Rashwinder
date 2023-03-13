@@ -3,7 +3,7 @@
 </h2>
 
 I’m Rashwinder, a recent Master of Data Science graduate from Monash University.
-* Lived in Melbourne, Australia for the last 10 years.
+* Lived in Melbourne, Australia for the last 12 years.
 * Job hunting in Melbourne, but will go wherever opportunity arises.
 * Primarily interested in both ***text*** and ***image*** processing.
 * Fascinated by ***neural networks, convolutions*** and ***attention*** mechanics in Graph networks.
