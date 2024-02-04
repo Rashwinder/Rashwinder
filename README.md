@@ -26,13 +26,9 @@ I’m Rashwinder, a recent Master of Data Science graduate from Monash Universit
   Tech Stack
 </h2>
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="100"
-       height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" width="100" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" title="Django" alt="Django" width="80" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" alt="Python" width="80" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="JQuery" alt="JQuery" width="80" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" title="Keras" alt="Keras" width="80" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="80" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R" alt="R" width="50" height="25"/>&nbsp;
 </div>
