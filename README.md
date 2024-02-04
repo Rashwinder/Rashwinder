@@ -35,7 +35,6 @@ I’m Rashwinder, a recent Master of Data Science graduate from Monash Universit
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" title="Keras" alt="Keras" width="80" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="80" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R" alt="R" width="50" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++" width="60" height="25"/>&nbsp;
 </div>
 
 
