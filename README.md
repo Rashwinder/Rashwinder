@@ -19,8 +19,8 @@ I’m Rashwinder, a recent Master of Data Science graduate from Monash Universit
   Current Plans.
 </h2>
 
-* Currently exploring convolutions and image classification.
-* Learning about EfficientNet and Inception.
+* Currently working with the National Centre for Healthy Ageing.
+https://www.monash.edu/medicine/national-centre-for-healthy-ageing
 
 <h2>
   Tech Stack
