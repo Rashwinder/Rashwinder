@@ -2,10 +2,10 @@
   About Me!
 </h2>
 
-I’m Rashwinder, a recent Master of Data Science graduate from Monash University.
+I’m Rashwinder, a Master of Data Science graduate from Monash University.
 * Lived in Melbourne, Australia for the last 12 years.
 * Primarily interested in both ***text*** and ***image*** processing.
-* Fascinated by ***neural networks, convolutions*** and ***attention*** mechanics in Graph networks.
+* Fascinated by ***neural networks, convolutions*** and ***attention mechanics*** in Graph networks.
 * Hope to be able to work with them someday!
 * Always looking to improve, so if you find any issues with the code I've written, don't hesitate to let me know!
 <div id="badges">
@@ -19,8 +19,7 @@ I’m Rashwinder, a recent Master of Data Science graduate from Monash Universit
   Current Plans.
 </h2>
 
-* Currently working with the National Centre for Healthy Ageing.
-https://www.monash.edu/medicine/national-centre-for-healthy-ageing
+* Currently working for the <a href="https://www.monash.edu/medicine/national-centre-for-healthy-ageing">National Centre for Healthy Ageing.
 
 <h2>
   Tech Stack
@@ -50,7 +49,6 @@ Diatastic - Master of Data Science Capstone Unit.
 
  
 [Github](https://github.com/Rashwinder/Diatastic)
- 
 
 
 <h2>
